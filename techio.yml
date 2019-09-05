@@ -1,8 +1,10 @@
 title: Recueil exercices
 plan:
-- title: Recueil exercices
+- title: Ex1
   statement: markdowns/variable1.md
+- title: Ex2
   statement: markdowns/variable2.md
+- title: Ex3
   statement: markdowns/variable3.md
 projects:
   first-project:

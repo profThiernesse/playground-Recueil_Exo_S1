@@ -1,7 +1,9 @@
-title: PHP Project
+title: Recueil exercices
 plan:
-- title: PHP on Tech.io
-  statement: markdowns/welcome.md
+- title: Recueil exercices
+  statement: markdowns/variable1.md
+  statement: markdowns/variable2.md
+  statement: markdowns/variable3.md
 projects:
   first-project:
     root: /php-template

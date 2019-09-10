@@ -4,9 +4,13 @@ Dans l’optique de développer une app pour smartphone permettant de localiser 
 
 ```math
 x = (longitudeB - longitudeA) \times \cos \left(\frac{latitudeA + latitudeB}{2} \right)
+```
 
+```math
 y = latitudeB - latitudeB
+```
 
+```math
 d = \sqrt{x^2 + y^2} \times 6371
 ```
 

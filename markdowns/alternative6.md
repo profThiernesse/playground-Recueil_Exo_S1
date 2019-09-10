@@ -6,8 +6,8 @@ Calculer les racines d’une équation du second degré.
 ax^2 + bx + c = 0
 ```
 ```math
-\delta = b^2 - 4ac 
+\Delta = b^2 - 4ac 
 ```
 ```math
-x_1,x_2 = \frac{-b \pm \sqrt{\delta}}{2a}
+x_1,x_2 = \frac{-b \pm \sqrt{\Delta}}{2a}
 ```

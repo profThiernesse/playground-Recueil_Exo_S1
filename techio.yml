@@ -10,6 +10,12 @@ plan:
   statement: markdowns/variable4.md
 - title: Ex5
   statement: markdowns/alternative1.md
+- title: Ex6
+  statement: markdowns/alternative2.md
+- title: Ex7
+  statement: markdowns/alternative3.md
+- title: Ex8
+  statement: markdowns/alternative4.md
 projects:
   first-project:
     root: /php-template

@@ -8,6 +8,8 @@ plan:
   statement: markdowns/variable3.md
 - title: Ex4
   statement: markdowns/variable4.md
+- title: Ex5
+  statement: markdowns/alternative1.md
 projects:
   first-project:
     root: /php-template

@@ -24,6 +24,14 @@ plan:
   statement: markdowns/alternative7.md
 - title: Ex12
   statement: markdowns/alternative8.md
+- title: Ex13
+  statement: markdowns/alternative9.md
+- title: Ex14
+  statement: markdowns/alternative10.md
+- title: Ex15
+  statement: markdowns/alternative11.md
+- title: Ex16
+  statement: markdowns/alternative12.md
 
 
 projects:

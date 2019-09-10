@@ -24,8 +24,7 @@ plan:
   statement: markdowns/alternative7.md
 - title: Ex12
   statement: markdowns/alternative8.md
-- title: Ex13
-  statement: markdowns/alternative9.md
+
 
 projects:
   first-project:

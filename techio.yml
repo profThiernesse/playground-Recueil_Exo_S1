@@ -16,6 +16,17 @@ plan:
   statement: markdowns/alternative3.md
 - title: Ex8
   statement: markdowns/alternative4.md
+- title: Ex9
+  statement: markdowns/alternative5.md
+- title: Ex10
+  statement: markdowns/alternative6.md
+- title: Ex11
+  statement: markdowns/alternative7.md
+- title: Ex12
+  statement: markdowns/alternative8.md
+- title: Ex13
+  statement: markdowns/alternative9.md
+
 projects:
   first-project:
     root: /php-template
